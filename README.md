@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Juan Camilo</h1>
-<h3 align="center">An Enthusiastic Data Engineer from Colombia</h3>
+<h3 align="center">A Data Engineer from Colombia</h3>
 
 - 👯 I’m looking to collaborate on **data science projects**
 
